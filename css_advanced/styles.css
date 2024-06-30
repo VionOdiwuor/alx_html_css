@@ -220,13 +220,33 @@ h2 {
 .weather {
   width: 1440px;
   height: 502px;
+  color: white;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto auto;
+  grid-gap: 20px;
+}
+.head {
+  font-family: Source Sans Pro;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 75.42px;
+  text-align: center;
   color: black;
+  transform: translateY(-200px);
 }
-.row1{
-display: flex;
+footer {
+  width: 1440px;
+  height: 249px;
+  background-color: black;
 }
+.end {
+  display: flex;
+  color: #ffffff;
+  gap: 70%;
+  padding: 100px;
 
-    
-    
-}
 
+}
