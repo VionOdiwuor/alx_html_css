@@ -5,6 +5,7 @@ Description:
 Welcome to Smile School! This project represents the website for Smile School, a platform dedicated to spreading joy and positivity through education and learning. The Smile School website aims to provide a fun and interactive learning experience for students of all ages.
 
 Links:
+
 [HTML FILE](https://github.com/VionOdiwuor/alx_html_css/blob/main/css_advanced/index.html)
 
 [CSS FILE](https://github.com/VionOdiwuor/alx_html_css/blob/main/css_advanced/styles.css)
