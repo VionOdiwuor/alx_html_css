@@ -1,0 +1,142 @@
+.background-image {
+  width: 1440px;
+  height: 1093px;
+  background-image: url(Object.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  padding: 20px;
+  margin-left: 80px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  }
+  ul li{
+    list-style: none;
+    display: inline;
+    text-align: center;
+    width: 1103.41px;
+    width: 234px;
+    height: 15px;
+    top: 37px;    
+     }
+  ul li a{
+    text-decoration: none;
+    width: 50px;
+    height: 15px;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15.08px;
+    color: #FFFFFF;
+    justify-content: center;
+    word-spacing: 60px;
+    position: relative;
+    right: 180px;
+    margin-right: 30px;
+    
+  }
+  ul {
+    width: 234px;
+    height: 15px;
+    top: 37px;
+    left: 1041px;
+    gap: 0px;
+    opacity: 0px;
+    left: 30px;
+    padding-top: 20px; 
+}
+h1 {
+  width: 684px;
+  white-space: nowrap;
+  height: 151px;
+  top: 220px;
+  gap: 0px;
+  opacity: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Source Sans Pro;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 150.84px;
+  text-align: center;
+  justify-content: center;
+  color: #FFFFFF;
+  position: relative;
+  top: 20px;
+  word-spacing: 40px
+}
+body {
+  text-align: center;
+}
+span{
+  width: 52px;
+  height: 20px;
+  justify-content: space-around;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.11px;
+  text-align: center;
+  color: #FFFFFF;
+  
+}
+#span {
+  position: relative;
+  top: -100px;
+  word-spacing: 40px;
+}
+.button{
+  width: 162px;
+  height: 44px;
+  top: 419px;
+  left: 639px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 2px 20px 0px #00000080;
+  background: #C271FF;
+  border-radius: 30px;
+  color: #FFFFFF;
+  border: none;
+}
+h2 {
+  width: 261px;
+  height: 40px;
+  font-family: source sans pro;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40.22px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-right: auto;
+  margin-left: auto;
+  white-space: nowrap;
+  position: relative;
+  top: 150px;
+  
+
+}
+.pros {
+display: flex;
+justify-content: center;
+padding-top: 200px;
+gap: 80px;
+color: #FFFFFF;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+
+}
+#pros{
+  font-family: Source Sans Pro;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 50px;
+}
+
