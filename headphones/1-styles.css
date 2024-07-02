@@ -1,0 +1,139 @@
+.firstpage {
+  width: 1000px;
+  margin: 0 auto;
+
+}
+.background {
+  width: 1000px;
+  margin: 0 auto;
+  height: 800px;
+  background-image: url(headphones_hero_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid #979797;
+}
+.logo {
+  width: 161px;
+  height: 32px;
+  top: 27.76px;
+  margin-top: 20px;
+  margin-left: 30px;
+  
+}
+ul {
+  display: inline;
+  list-style: none;
+  display: flex;
+  margin-left: 600px;
+  margin-top: -1.5px;
+  white-space: nowrap;
+}
+ul li a {
+  width: 255px;
+  height: 15px;
+  top: 37px;
+  gap: 0px;
+  opacity: 0px;
+  color: #ffffff;
+  text-decoration: none;
+}
+#call {
+  width: 637px;
+  height: 313px;
+  left: 66px;
+  gap: 0px;
+  opacity: 0px;
+}
+#call h1 {
+  width: 578px;
+  height: 40px;
+  left: 29px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40.22px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 170px;
+  margin-top: 200px;
+  white-space: nowrap;
+  transform: translateY(80px);
+
+}
+h2 {
+  width: 355px;
+  height: 20px;
+  top: 100px;
+  left: 141px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.11px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 270px;
+  transform: translateY(50px);
+ 
+}
+button {
+  width: 162px;
+  height: 44px;
+  top: 100px;
+  left: 237px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 2px 20px 0px #00000080;
+  background: #ff6565;
+  border-radius: 30px;
+  color: #ffffff;
+  margin-left: 390px;
+  margin-top: 150px;
+  transform: translateY(-40px);
+}
+ button:hover, button:active{
+    opacity: 0.9
+    #FF6565
+}
+#call p {
+  width: 637px;
+  height: 104px;
+  top: 209px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 160px;
+}
+/*mobile phone*/
+@media only screen and(max-width:480px) {
+    .firstpage{
+        width: 100%;
+        margin: 0 auto;
+        
+    }
+    .background {
+        width: 100%;
+       
+      }   
+    .logo {
+        width: 161px;
+        height: 32px;
+}
+ul {
+    display:none;
+    
+}
+#call {
+    width: 100%;
+    height: 313px;
+
+  }
+}
